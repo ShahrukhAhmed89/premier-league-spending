@@ -1,0 +1,151 @@
+@import 'https://fonts.googleapis.com/css?family=Abel';
+
+.head{
+  text-align: center;
+ z-index:1;
+ padding-right: 5%;
+  padding-left:  5%;
+  
+}
+.head p{
+  font-size:1.5em;
+  font-family: 'Abel', sans-serif !important ;
+}
+circle {
+  stroke: black;
+  outline:none;
+}
+.outer-div{
+  margin-top:10%;
+  position:relative;
+}
+.leaf circle {
+  fill:white;
+  fill-opacity: .5;
+  stroke: black;
+  stroke-opacity:.5;
+}
+
+.leaf circle:hover{
+    fill:wheat;
+   fill-opacity: 1;
+ 
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+#Premier_League{
+  fill:#222;
+}
+
+div.tooltip_club{ 
+    position: absolute;     
+    width: 300px;          
+        
+    padding: 2px;       
+    font: 20px sans-serif;    
+    background: white; 
+    border: 0px;    
+    border-radius: 8px;     
+    pointer-events: none; 
+    background-size: 100px 100px;
+    background-repeat:no-repeat;  
+    background-color:wheat;
+   
+}    
+
+.tooltip_club img{
+  width: 200px;
+  height: 200px;
+  float:left;
+
+}
+
+.tooltip_player img{
+  width: 100px;
+  height: 100px;
+  float:left;
+  opacity: 1;
+}
+
+.transfer_data  p{
+   font-family: 'Abel', sans-serif !important ;
+   text-align: center !important;
+   font-size:20px;
+
+
+
+}
+.big_amount{
+  font-family: 'Abel', sans-serif !important ;
+  text-align:center;
+  font-size:1.5em;
+  color:red;
+}
+
+.player_image{
+   width: 100px;
+   height: 100px;
+   opacity: 1;
+   background-repeat: no-repeat;
+   float:left;
+  background-image: url('logos.png');
+}
+
+#team_logo{
+  margin-top: 8%;
+}
+.pos_from{
+  margin-left:2.5%;
+}
+.player_data{
+  margin:5%;
+  margin-left:25%;
+  float: left;
+  font-size:.5em;
+ 
+}
+
+
+.player_data{
+  font-size: 20px;
+}
+.arrow{
+  opacity: 0.2;
+  margin-top:10%;
+  margin-right:1%;
+  margin-left:5%;
+  width:70px;
+  height: 40px;
+  background-image:url("arrow1.png");
+  background-size:100px 50px;
+  background-repeat: no-repeat;
+
+  float:left;
+}
+
+#fade{
+  opacity: .5
+}
+
+.player_data p{
+  color:black;
+  opacity: 1;
+   font-family: 'Abel', sans-serif ;
+  line-height: 0.6em;
+  opacity: 1;
+
+  font-size:20px;
+}
+
+.player_image img{
+    opacity: 1;
+}
+
+@media ( max-width: 768px ){
+  .head {
+    margin-bottom: 45%;
+  }
+}

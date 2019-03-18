@@ -1,0 +1,93 @@
+group,team,id,name,amount,fill,position_from,position_to,from
+1,Arsenal,Arsenal,Granit Xhaka,34,#950319,-800px -100px;,-100px -200px;,Mönchengladbach
+1,Arsenal,Arsenal,Rob Holding,2,#950320,-800px -100px;, 0px -200px ;,Bolton Wanderers
+1,Arsenal,Arsenal,Takuma Asano,3,#950321,-800px -100px;,-100px -400px;,Sanfrecce Hiroshima
+1,Arsenal,Arsenal,Kelechi Nwakali,3,#950322,-800px -100px;,-1100px -200px;,Diamond F.A
+1,Arsenal,Arsenal,Shkodran Mustafi,35,#950323,-800px -100px;,-900px 0px;,Valencia C.F
+1,Arsenal,Arsenal,Lucas Perez,17,#950324,-800px -100px;,-300px 0px;,Deportivo La Coruña
+2,Bournemouth,Bournemouth,Lys Mousset,5.4,url('#repeat1'),-300px -600px;,-100px -300px;,Le Havre
+2,Bournemouth,Bournemouth,Lewis Cook,10,url('#repeat1'),-300px -600px;,-200px -300px;,Leeds United
+2,Bournemouth,Bournemouth,Jordon Ibe,15,url('#repeat1'),-300px -600px;,-800px 0px;,Liverpool
+2,Bournemouth,Bournemouth,Emerson Hyndman,1,url('#repeat1'),-300px -600px;,-800px -200px;,Fulham
+2,Bournemouth,Bournemouth,Brad Smith,3,url('#repeat1'),-300px -600px;,-800px 0px;,Liverpool
+2,Bournemouth,Bournemouth,Marc Wilson,2,url('#repeat1'),-300px -600px;,-200px -100px;,Stoke City
+3,Burnley,Burnley,Steven Defour,7.5,#4f1521,-400px -600px;,0px -400px;,Anderlecht
+3,Burnley,Burnley,Nick Pope,1.1,#4f1521,-400px -600px;,-300px -200px;,Charlton Athletic
+3,Burnley,Burnley,J.Gudmundsdon,2.5,#4f1521,-400px -600px;,-800px -200px;,Fulham
+3,Burnley,Burnley,Jeff Hendrick,10.5,#4f1521,-400px -600px;,-100px -700px;,Derby County
+4,Chelsea,Chelsea,Michy Batshuayi,33,#324d9c,0px -500px;,-400px -500px;,Marseille
+4,Chelsea,Chelsea,N'Golo Kante,32,#324d9c,0px -500px;,-300px -300px;,Leicester City
+4,Chelsea,Chelsea,Marcos Alonso,23,#324d9c,0px -500px;,-300px -700px;,Fiorentina
+4,Chelsea,Chelsea,David Luiz,34,#324d9c,0px -500px;,-900px -600px;,PSG
+5,Crystal Palace,CrystalPalace,James Tomkins,10,url('#repeat2'),-500px -200px;,-300px -400px;,West Ham United
+5,Crystal Palace,CrystalPalace,Christian Benteke,32,url('#repeat2'),-500px -200px;,-800px 0px;,Liverpool
+5,Crystal Palace,CrystalPalace,Andros Townsend,13,url('#repeat2'),-500px -200px;,-500px -300px;,Newcastle
+5,Crystal Palace,CrystalPalace,Steve Mandanda,1.5,url('#repeat2'),-500px -200px;,-400px -500px;,Marseille
+6,Everton,Everton,Dominic Calvert,1.5,#254290,-100px -500px;,-800px -200px,Sheffield United
+6,Everton,Everton,Idrissa Gueye,9,#254290,-100px -500px;,-400px -300px;,Aston Villa
+6,Everton,Everton,Ashley Williams,12,#254290,-100px -500px;,0px -0px;,Swansea City
+6,Everton,Everton,Yannick Bolasie,25,#254290,-100px -500px;,-500px -200px,Crystal palace
+6,Everton,Everton,Stekelenburg,1,#254290,-100px -500px;,-800px -200px,Fulham
+7,Hull City,HullCity,Ryan Mason,13,url('#repeat7'),-0px -300px;,-100px -600px;,Tottenham
+7,Hull City,HullCity,Will Keane,1,url('#repeat7'),-0px -300px;,0px -100px;,Manchester United
+7,Hull City,HullCity,David Marshall,3.5,url('#repeat7'),-0px -300px;,-200px -200px;,Cardiff City
+8,Leicester City,LeicesterCity,Ron-Robert Zieler,2.6,#001e6c,-300px -300px;,-900px -200px;,Hannover 96
+8,Leicester City,LeicesterCity,Raul Uche,5,#001e6c,-300px -300px;,-900px -300px;,Rayo Vallecano
+8,Leicester City,LeicesterCity,Bartosz Kapustka,7.5,#001e6c,-300px -300px;,-400px -200px;,Cracovia
+8,Leicester City,LeicesterCity,Ahmed Musa,18,#001e6c,-300px -300px;,-100px -100px;,CSKA Moscow
+8,Leicester City,LeicesterCity,Nampalys Mendy,13,#001e6c,-300px -300px;,-600px -300px;,OGC Nice
+8,Leicester City,LeicesterCity,Islam Slimani,29.7,#001e6c,-300px -300px;,-500px -700px;,Sporting Lisbon
+9,Liverpool,Liverpool,Loris Karius,4.7,#c41222,-800px 0px;,-700px -200px;,FSV Mainz
+9,Liverpool,Liverpool,Sadio Mane,36,#c41222,-800px 0px;,-700px 0px,Southamption
+9,Liverpool,Liverpool,Ragnar Klavan,4.7,#c41222,-800px 0px;,-400px 0px,FC Augsburg
+9,Liverpool,Liverpool,Georginio Wijnaldum,25,#c41222,-800px 0px;,-500px -300px,Newcastle
+10,Manchester City,ManchesterCity,Marlos Moreno,4.75,#8cbbe7,-100px 0px;,-900px -100px;,Atletico Nacional
+10,Manchester City,ManchesterCity,Gabriel Jesus,27,#8cbbe7,-100px 0px;,-700px -300px;,Palmerias
+10,Manchester City,ManchesterCity,Leroy Sane,37,#8cbbe7,-100px 0px;,-300px -500px;,FC Schalke 04
+10,Manchester City,ManchesterCity,O.Zinchenko,3.4,#8cbbe7,-100px 0px;,-500px 0px;,FC Ufa
+10,Manchester City,ManchesterCity,John Stones,47.5,#8cbbe7,-100px 0px;,-100px -500px;,Everton F.C.
+10,Manchester City,ManchesterCity,Claudio Bravo,17,#8cbbe7,-100px 0px;,-200px -500px;,Barcelona
+10,Manchester City,ManchesterCity,Ilkay Gundogan,21,#8cbbe7,-100px 0px;,-900px -400px;,Borussia Dortmund
+10,Manchester City,ManchesterCity,Nolito,14,#8cbbe7,-100px 0px;,-900px -500px;,Celta de Vigo
+11,Manchester United,ManchesterUnited,Paul Pogba,89,#d42b24,0px -100px;,-600px 0px;,Juventus F.C.
+11,Manchester United,ManchesterUnited,Eric Bailly,30,#d42b24,0px -100px;,0px -600px;,Villarreal CF
+11,Manchester United,ManchesterUnited,Henrikh Mkhitaryan,26,#d42b24,0px -100px;,-900px -400px;,Borussia Dortmund
+12,Middlesbrough,Middlesbrough,Antonio Barragan,3,#be0903,-500px -600px;,-900px 0px;,Valencia
+12,Middlesbrough,Middlesbrough,Viktor Fischer,3.8,#be0903,-500px -600px;,-400px -400px;,AFC Ajax
+12,Middlesbrough,Middlesbrough,Fabio Da Silva,2,#be0903,-500px -600px;,-200px -200px;,Cardiff City F.C.
+12,Middlesbrough,Middlesbrough,Marten de Roon,12,#be0903,-500px -600px;,-500px -400px;,Atalanta B.C.
+13,Southampton,Southampton,Alex McCarthy,4,url('#repeat3'),-700px 0px;,-500px -200px;,Crystal Palace
+13,Southampton,Southampton,Emile Hojbjerg,12.75,url('#repeat3'),-700px 0px;,-300px -100px;,Bayern Munich
+13,Southampton,Southampton,Sofiane Boufal,17,url('#repeat3'),-700px 0px;,-700px -600px;,Lille
+13,Southampton,Southampton,Nathan Redmond,11,url('#repeat3'),-700px 0px;,-500px -100px;,Norwich City
+14,Stoke City,StokeCity,Joe Allen,13,url('#repeat4'),-200px -100px;,-800px 0px;,Liverpool
+14,Stoke City,StokeCity,Ramadan Sobhi,5,url('#repeat4'),-200px -100px;,-600px -100px;,Al Ahly SC
+15,Sunderland,Sunderland,Paddy McNair,2.75,url('#repeat5'),-600px -500px;,0px -100px;,Manchester United
+15,Sunderland,Sunderland,Papy Djilobodji,8,url('#repeat5'),-600px -500px;,0px -500px;,Chelsea
+15,Sunderland,Sunderland,Didier Ndong,13.6,url('#repeat5'),-600px -500px;,-400px -700px;,Lorient
+15,Sunderland,Sunderland,Donald Love,2.75,url('#repeat5'),-600px -500px;,0px -100px;,Manchester United
+16,Swansea City,SwanseaCity,Borja Baston,15,white,0px 0px;,-600px -400px;,Atlético Madrid
+16,Swansea City,SwanseaCity,Leroy Fer,4.75,white,0px 0px;,-800px -300px;,Q.P.R
+16,Swansea City,SwanseaCity,Fernando Llorente,5,white,0px 0px;,-200px -400px;,Sevilla FC
+16,Swansea City,SwanseaCity,Alfie Mawson,5,white,0px 0px;,-200px -400px;,Barnsley
+16,Swansea City,SwanseaCity,Mike van der Hoorn,3,white,0px 0px;,-400px -400px;,Ajax
+17,Tottenham Hotspur,TottenhamHotspur,Victor Wanyama,11,white,-100px -600px;,-700px 0px;,Southampton
+17,Tottenham Hotspur,TottenhamHotspur,Vincent Janssen,18.5,white,-100px -600px;,-800px -400px;,AZ Alkmaar
+17,Tottenham Hotspur,TottenhamHotspur,Moussa Sissoko,30,white,-100px -600px;,-500px -300px;,Newcastle
+17,Tottenham Hotspur,TottenhamHotspur,Kevin Nkoudou,11,white,-100px -600px;,-400px -500px;,Marseille
+18,Watford,Watford,Daryl Janmaat,7,#fedc23,-200px -600px;,-500px -300px;,Newcastle United
+18,Watford,Watford,Isaac Success,12.5,#fedc23,-200px -600px;,-500px -500px;,Granada
+18,Watford,Watford,Younes Kaboul,3.5,#fedc23,-200px -600px;,-600px -500px;,Sunderland
+18,Watford,Watford,Christian Kabasele,5.8,#fedc23,-200px -600px;,-200px 0px;,K.R.C. Genk
+18,Watford,Watford,Brice Dja Djedje,3,#fedc23,-200px -600px;,-400px -500px;,Marseille
+18,Watford,Watford,Jerome Sinclair,4,#fedc23,-200px -600px;,-800px 0px;,Liverpool
+18,Watford,Watford,Stefano Okaka,10,#fedc23,-200px -600px;,0px -400px;,Anderlecht
+18,Watford,Watford,Roberto Pereyra,13,#fedc23,-200px -600px;,-600px 0px;,Juventus
+19,West Bromwich Albion,WestBromwichAlbion,Matt Phillips,5.5,url('#repeat6'),-600px -600px;,-800px -300px;,Q.P.R
+19,West Bromwich Albion,WestBromwichAlbion,Nacer Chadli,13,url('#repeat6'),-600px -600px;,-100px -600px;,Tottenham
+19,West Bromwich Albion,WestBromwichAlbion,Allan Nyom,4,url('#repeat6'),-600px -600px;,-200px -600px;,Watford
+20,West Ham United,WestHamUnited,E.Fernandes,5.5,#7c2136,-300px -400px;,-600px -200px;,FC Sion
+20,West Ham United,WestHamUnited,Toni Martinez,2.25,#7c2136,-300px -400px;,-900px 0px;,Valencia
+20,West Ham United,WestHamUnited,Arthur Masuaku,6,#7c2136,-300px -400px;,-700px -500px;,Olympiacos
+20,West Ham United,WestHamUnited,Andre Ayew,20.5,#7c2136,-300px -400px;,0px 0px;,Swansea City
+20,West Ham United,WestHamUnited,Manuel Lanzini,9.4,#7c2136,-300px -400px;,-700px -100px;,Al Jazira Club

@@ -1,0 +1,123 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link href='//fonts.googleapis.com/css?family=Bree+Serif|Roboto+Slab' rel='stylesheet' type='text/css'>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet"  href="interactive.css">
+</head>
+<body>
+<h3 style="text-align:center; margin-bottom:5rem;">Premier League Transfer Spending Visualisation</h3>
+<div class='head col-md-12'><p>What a premier league transfer window this was! The transfer records were sent tumbling by clubs up and down the country, buoyed&nbsp;by a&nbsp;record <a title="BBC" href="http://www.bbc.com/news/business-31379128" target="_blank">premier league tv deal</a>. Almost half the clubs broke their own transfer record signings, with Manchester United breaking the world transfer record, set previously by Christiano Ronaldo. Manchester City made their intention of dominance clear with total spend going over 150 million. When Arsenal spend close to a 100million&pound; in the transfer window, you know the competition is intense.&nbsp;</p>
+<p>Hover over the bubbles to compare transfer fee data for&nbsp;each club along with the players who signed for the amount. Click on the bubbles to highlight a team and outside to close animation. We recommend viewing this on desktop for better experience.&nbsp;</p>
+</div>
+<div class='outer-div'>
+<div class='club col-md-6' ><p style='text-align:center;margin-top:2%;'>Total Amount Spent by Clubs</p></div>
+<div class='player col-md-6'><p style='text-align:center;margin-top:2%;'>Players Bought by Clubs</p></div>
+<svg>
+<defs>
+        <linearGradient id="HullCity"
+         x1="0" y1="0" x2="30%" y2="">
+            <stop offset="10%" stop-color= " #1A1A1C" />
+            
+            <stop offset="10%" stop-color= "#F5A73A" />
+        </linearGradient>
+        <linearGradient id="repeat7"
+                        xlink:href="#HullCity"
+                        spreadMethod="repeat" />
+  </defs>
+  <defs>
+        <linearGradient id="Bournemouth"
+         x1="0" y1="0" x2="30%" y2="">
+            <stop offset="45%" stop-color=  '#8B0C1E'/>
+            
+            <stop offset="40%" stop-color="#010104"  />
+        </linearGradient>
+        <linearGradient id="repeat1"
+                        xlink:href="#Bournemouth"
+                        spreadMethod="repeat" />
+
+   
+
+  
+  <defs>
+        <linearGradient id="CrystalPalace"
+         x1="0" y1="0" x2="30%" y2="">
+            <stop offset="45%" stop-color='#2760B9'/>
+            
+            <stop offset="40%" stop-color='#D23643' />
+        </linearGradient>
+        <linearGradient id="repeat2"
+                        xlink:href="#CrystalPalace"
+                        spreadMethod="repeat" />
+
+   
+  </defs>
+
+
+    <defs>
+        <linearGradient id="Southhampton"
+         x1="0" y1="0" x2="25%" y2="">
+            <stop offset="60%" stop-color= "#BD0529"/>
+            
+            <stop offset="20%" stop-color='#E0D8DC' />
+        </linearGradient>
+        <linearGradient id="repeat3"
+                        xlink:href="#Southhampton"
+                        spreadMethod="repeat" />
+
+</defs>
+
+    <defs>
+        <linearGradient id="StrokeCity"
+         x1="0" y1="0" x2="20%" y2="">
+            <stop offset="50%" stop-color='#E40023 '/>
+            
+            <stop offset="50%" stop-color='#F1F1F1' />
+        </linearGradient>
+        <linearGradient id="repeat4"
+                        xlink:href="#StrokeCity"
+                        spreadMethod="repeat" />
+
+</defs>
+
+
+
+  <defs>
+        <linearGradient id="Sunderland"
+         x1="0" y1="0" x2="30%" y2="">
+            <stop offset="45%" stop-color='#E40023 '/>
+            
+            <stop offset="10%" stop-color='#EFF3F6' />
+        </linearGradient>
+        <linearGradient id="repeat5"
+                        xlink:href="#Sunderland"
+                        spreadMethod="repeat" />
+
+</defs>
+
+    <defs>
+        <linearGradient id="WestBromwichAlbion"
+         x1="0" y1="0" x2="30%" y2="">
+            <stop offset="40%" stop-color= "#18223D" />
+            
+            <stop offset="40%" stop-color= "#DEDFE4" />
+        </linearGradient>
+        <linearGradient id="repeat6"
+                        xlink:href="#WestBromwichAlbion"
+                        spreadMethod="repeat" />
+
+</defs>
+
+</svg>
+
+</body>
+<script src="//d3js.org/d3.v3.js" charset="utf-8"></script>
+<script src="interactive.js"></script>
+</html>
