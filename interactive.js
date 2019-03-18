@@ -102,17 +102,7 @@ node.transition()
     });
 
             
-/*$('circle').on('mousemove', function () {
-    var hoverClass = $(this).attr("class");
-    var text = "circle:not(." + hoverClass + ")"
-   $(text).addClass('fade')
-   if(!$(event.target).is('svg'));
-   
-}).on('mouseout', function() {
-    $('circle').removeClass('fade');
-});
 
-*/
 
 $('circle').on('click', function () {
 
